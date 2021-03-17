@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bank App - Samir Gandhi 217957309</string>
+    <string-array name="transactions">
+        <item>Deposit</item>
+        <item>Withdraw</item>
+        <item>Transfer</item>
+        <item>Print Statement</item>
+    </string-array>
+</resources>
